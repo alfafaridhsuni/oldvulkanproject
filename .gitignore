@@ -2,3 +2,5 @@ VulkanApp
 .DS_Store
 *~
 build/
+# Ignore Emacs auto-save files
+#*#
