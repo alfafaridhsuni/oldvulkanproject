@@ -3,4 +3,4 @@ VulkanApp
 *~
 build/
 # Ignore Emacs auto-save files
-#*#
+\#*#
