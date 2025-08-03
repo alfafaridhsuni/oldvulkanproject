@@ -1,3 +1,4 @@
 VulkanApp
 .DS_Store
 *~
+build/
